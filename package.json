@@ -1,0 +1,13 @@
+{
+  "name": "scendance-scene-library",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "幕景（Scendance）10 套完整场景模板库：场馆结构 + 可编辑物件的 GLB 数据集与拆分构建器",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
